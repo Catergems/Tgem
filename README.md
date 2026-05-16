@@ -2,4 +2,5 @@
 Technolgy In future peak!
 
 #License
-GPL-v3
+
+MIT
